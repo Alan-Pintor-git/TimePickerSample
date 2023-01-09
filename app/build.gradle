@@ -14,6 +14,7 @@ android {
         /*
         Sourse for 1.0: TimePickerDialog https://www.youtube.com/watch?v=QMwaNN_aM3U
         Sourse for 1.0.1: Notification Channels: https://www.youtube.com/watch?v=ub4_f6ksxL0
+        Sourse for 1.0.2: Alarm Manager: https://www.youtube.com/watch?v=yrpimdBRk5Q&t=206s
          */
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
