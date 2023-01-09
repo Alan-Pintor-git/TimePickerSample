@@ -10,7 +10,11 @@ android {
         minSdk 21
         targetSdk 33
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.1"
+        /*
+        Sourse for 1.0: TimePickerDialog https://www.youtube.com/watch?v=QMwaNN_aM3U
+        Sourse for 1.0.1: Notification Channels: https://www.youtube.com/watch?v=ub4_f6ksxL0
+         */
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
